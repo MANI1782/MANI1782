@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="coding animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Java+Developer;Mastering+DSA;Exploring+Philips+Displays;Open+Source+Contributor" alt="Typing Animation" />
 </div>
 
 # 💫 About Me:
