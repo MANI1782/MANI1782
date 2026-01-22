@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Java+Developer;Mastering+DSA;Exploring+Philips+Displays;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Java+Developer;Mastering+DSA;Exploring+Philips+Displays;Open+Source+Contributor" alt="Typing Animation" />
 </div>
 
 # 💫 About Me:
