@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Java+Developer;Mastering+DSA;Exploring+Philips+Displays;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Java+Developer;Mastering+DSA;Full+Stack;Open+Source+Contributor" alt="Typing Animation" />
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" alt="cozy coding desk" />
+</div>
+
 
 # 💫 About Me:
 🔭 I’m currently working on exploring technical configurations for Philips Signage Displays and mastering DSA<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with mastering advanced Data Structures and Algorithms (DSA)<br>🌱 I’m currently learning DSA patterns and Philips Professional Display Solutions<br><br>
