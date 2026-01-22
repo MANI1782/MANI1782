@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="coding animation" />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on exploring technical configurations for Philips Signage Displays and mastering DSA<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with mastering advanced Data Structures and Algorithms (DSA)<br>🌱 I’m currently learning DSA patterns and Philips Professional Display Solutions<br><br>
 
