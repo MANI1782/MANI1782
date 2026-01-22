@@ -16,7 +16,7 @@
   <br/>
 
   <p><code>>_ AI_CORE_STATUS: ONLINE</code></p>
-  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="300" alt="glitch code" />
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="150" alt="glitch code" />
 </div>
 
 <div align="center">
