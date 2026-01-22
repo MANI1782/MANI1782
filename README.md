@@ -1,14 +1,66 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Java+Developer;Mastering+DSA;Full+Stack;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="cozy coding desk" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" alt="cozy coding desk" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Java+Developer;Mastering+DSA;Full+Stack;Open+Source+Contributor" alt="Typing Animation" />
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="cozy coding desk" />
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="300" alt="glitch code" />
 </div>
 
 
-# 💫 About Me:
-🔭 I’m currently working on exploring technical configurations for Philips Signage Displays and mastering DSA<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with mastering advanced Data Structures and Algorithms (DSA)<br>🌱 I’m currently learning DSA patterns and Philips Professional Display Solutions<br><br>
+<h2 align="center">⚡ The Digital Playground</h2>
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp" width="100%">
+    </td>
+    <td width="70%">
+      <h3>🔭 Current Mission</h3>
+      <p>I am deep-diving into <b>Philips Professional Display Solutions</b>, configuring Kiosk modes, ADB, and Failover systems. Simultaneously, I am sharpening my problem-solving skills with <b>Advanced DSA</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="70%">
+      <h3>🌱 Learning & Growing</h3>
+      <p>My brain is currently processing <b>DSA Patterns</b> (Dynamic Programming & Graphs). I'm also exploring the architecture behind large-scale signage displays.</p>
+      <details>
+        <summary><b>✨ Click to see my learning strategy</b></summary>
+        <br>
+        1. Solving 2-3 LeetCode Mediums daily.<br>
+        2. Reading documentation for Philips Android-based displays.<br>
+        3. Building clone apps to practice Full Stack flow.
+      </details>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media1.tenor.com/m/qTyqeRi-VCwAAAAC/collab-collaboration.gif" width="100%">
+    </td>
+    <td width="70%">
+      <h3>🤝 Let's Collaborate</h3>
+      <p>I am looking for open-source <b>Java</b> projects or <b>Full Stack</b> challenges. If you have a repo that needs a commit, count me in!</p>
+      <a href="mailto:manishmoger75@gmail.com"><img src="https://img.shields.io/badge/Send_Me_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 ## 🌐 Socials:
