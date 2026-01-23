@@ -124,33 +124,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Q8y5lBigYQ7X1wY9No/giphy.gif" width="35px" style="vertical-align:middle"> 
-  <code>root@manish:~/github_analytics</code> 
-  <img src="https://media.giphy.com/media/Q8y5lBigYQ7X1wY9No/giphy.gif" width="35px" style="vertical-align:middle">
-</h2>
 
-<div align="center">
-  <p><code>>_ GENERATING_REPORT... [STATUS: COMPLETE]</code></p>
-  <br>
-
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MANI1782&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Manish's Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANI1782&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MANI1782&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  
-  <br><br>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
